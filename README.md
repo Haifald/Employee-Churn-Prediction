@@ -177,7 +177,7 @@ The tuned Random Forest model improved accuracy from **78%** to **91.6%** — a 
 
 ```
 ├── HR_data.csv          # Dataset
-├── notebook.ipynb       # Main Jupyter notebook
+├── EDA_model.ipynb      # Main Jupyter notebook
 ├── rf_confusion_matrix.png
 └── README.md
 ```
@@ -195,7 +195,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Open and run the Jupyter notebook:
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook EDA_model.ipynb
 ```
 
 ---
